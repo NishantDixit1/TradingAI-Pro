@@ -1,4 +1,4 @@
 {
-  "buildCommand": "bundle exec jekyll build",
-  "outputDirectory": "_site"
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
 }
